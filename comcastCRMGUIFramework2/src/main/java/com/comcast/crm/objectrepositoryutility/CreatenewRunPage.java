@@ -2,5 +2,7 @@ package com.comcast.crm.objectrepositoryutility;
 
 public class CreatenewRunPage {
 
-	//run
+	public static void main(String[] args) {
+		
+	}
 }
